@@ -35,7 +35,7 @@ A financial transfer API where every transaction is atomic and idempotent.
 
 -Developed an API for processing financial transactions between accounts.
 
-- Duplicate-payment prevention via unique idempotency keys
+-Duplicate-payment prevention via unique idempotency keys
 -Implemented secure database processes to handle multiple transactions safely. 
 
 ---
