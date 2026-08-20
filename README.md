@@ -23,15 +23,15 @@ Institute of Technology.
 
 #### [SDICMS - Smart Digital Investigation & Case Management System](https://github.com/bongib890-bot/sdicms-server)
 Role-based case management platform for South African law enforcement.
-- Two-tier administrator hierarchy (Super Admin → Station Admin) enforced server-side
-- Tamper-evident audit log using database-enforced hash chaining
-- JWT authentication with rotating refresh tokens and bcrypt password hashing
+-Developed a case management platform designed to help law-enforcement teams manage investigations.
+-Implemented different user roles and permissions to control access to system functions.
+-Created an audit trail to track changes and activities performed within the system.
 
 #### [FinTrust Ledger - Double-Entry Accounting API](https://github.com/bongib890-bot/fintrust-ledger)
 A financial transfer API where every transaction is atomic and idempotent.
-- Deadlock-safe row locking for concurrent transfers between accounts
+-Developed an API for processing financial transactions between accounts.
 - Duplicate-payment prevention via unique idempotency keys
-- Integer-based money handling to eliminate floating-point rounding errors
+-Implemented secure database processes to handle multiple transactions safely. 
 
 ---
 
@@ -57,8 +57,4 @@ Links go live here as each one ships.
 
 📧 bongib890@gmail.com
 
-<!--
-Setup note for future edits: this file only shows up as your profile page's
-intro if it lives in a repository named EXACTLY your username. See the
-chat message this came with for the one-time setup steps.
--->
+
