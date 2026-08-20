@@ -32,6 +32,7 @@ Role-based case management platform for South African law enforcement.
 
 #### [FinTrust Ledger - Double-Entry Accounting API](https://github.com/bongib890-bot/fintrust-ledger)
 A financial transfer API where every transaction is atomic and idempotent.
+
 -Developed an API for processing financial transactions between accounts.
 - Duplicate-payment prevention via unique idempotency keys
 -Implemented secure database processes to handle multiple transactions safely. 
