@@ -1,7 +1,7 @@
 # Hi, I'm Bongiwe 👋
 
 Backend / full-stack developer focused on systems where correctness is
-non-negotiable — data integrity, concurrency, security.
+non-negotiable - data integrity, concurrency, security.
 
 Currently completing a BSc in Information Technology at Richfield Graduate
 Institute of Technology.
@@ -21,13 +21,13 @@ Institute of Technology.
 
 ### 📌 Featured projects
 
-#### [SDICMS — Smart Digital Investigation & Case Management System](https://github.com/bongib890-bot/sdicms-server)
+#### [SDICMS - Smart Digital Investigation & Case Management System](https://github.com/bongib890-bot/sdicms-server)
 Role-based case management platform for South African law enforcement.
 - Two-tier administrator hierarchy (Super Admin → Station Admin) enforced server-side
 - Tamper-evident audit log using database-enforced hash chaining
 - JWT authentication with rotating refresh tokens and bcrypt password hashing
 
-#### [FinTrust Ledger — Double-Entry Accounting API](https://github.com/bongib890-bot/fintrust-ledger)
+#### [FinTrust Ledger - Double-Entry Accounting API](https://github.com/bongib890-bot/fintrust-ledger)
 A financial transfer API where every transaction is atomic and idempotent.
 - Deadlock-safe row locking for concurrent transfers between accounts
 - Duplicate-payment prevention via unique idempotency keys
@@ -40,12 +40,12 @@ A financial transfer API where every transaction is atomic and idempotent.
 Expanding this portfolio with three more backend-focused projects, each
 built around one specific hard problem rather than general CRUD practice:
 
-- **URL Shortener + Analytics** — collision-safe short code generation
+- **URL Shortener + Analytics** - collision-safe short code generation
   under concurrent load, with click analytics buffered and batched so they
   never slow down the redirect path itself
-- **Webhook Delivery System** — HMAC-signed payloads, exponential backoff
+- **Webhook Delivery System** - HMAC-signed payloads, exponential backoff
   retries, and a dead-letter state for deliveries that never succeed
-- **Real-Time Seat Booking** — TTL-based reservation holds and a live
+- **Real-Time Seat Booking** - TTL-based reservation holds and a live
   seat map over WebSockets, preventing two people from ever holding the
   same seat
 
