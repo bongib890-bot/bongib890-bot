@@ -23,8 +23,11 @@ Institute of Technology.
 
 #### [SDICMS - Smart Digital Investigation & Case Management System](https://github.com/bongib890-bot/sdicms-server)
 Role-based case management platform for South African law enforcement.
+
 -Developed a case management platform designed to help law-enforcement teams manage investigations.
+
 -Implemented different user roles and permissions to control access to system functions.
+
 -Created an audit trail to track changes and activities performed within the system.
 
 #### [FinTrust Ledger - Double-Entry Accounting API](https://github.com/bongib890-bot/fintrust-ledger)
